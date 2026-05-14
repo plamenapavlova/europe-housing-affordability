@@ -53,28 +53,28 @@ Analysis of housing price dynamics and affordability across European countries f
 
 | | |
 |---|---|
-| ![Cluster 0](charts/cluster_nominal_0.png) | ![Cluster 1](charts/cluster_nominal_1.png) |
+| ![Cluster 0](Chart1.png) | ![Cluster 1](charts/Chart2.png) |
 | **Cluster 0 — Extreme Growth** | **Cluster 1 — Recovery Markets** |
-| ![Cluster 2](charts/cluster_nominal_2.png) | ![Cluster 3](charts/cluster_nominal_3.png) |
+| ![Cluster 2](charts/Chart3.png) | ![Cluster 3](charts/Chart4.png) |
 | **Cluster 2 — Consistent Growth** | **Cluster 3 — Crisis-Scarred Markets** |
 
 ### Inflation-Adjusted Clusters
 
 | | |
 |---|---|
-| ![Cluster 0](charts/cluster_real_0.png) | ![Cluster 1](charts/cluster_real_1.png) |
+| ![Cluster 0](charts/Chart5.png) | ![Cluster 1](charts/Chart6.png) |
 | **Cluster 0** | **Cluster 1** |
-| ![Cluster 2](charts/cluster_real_2.png) | ![Cluster 3](charts/cluster_real_3.png) |
+| ![Cluster 2](charts/Chart7.png) | ![Cluster 3](charts/Chart8.png) |
 | **Cluster 2** | **Cluster 3** |
 
 ### Affordability Index
-![Affordability Index](charts/affordability_index.png)
+![Affordability Index](charts/Chart9.png)
 
 ### Bulgaria: Real Compensation vs Real House Prices
-![Bulgaria](charts/bulgaria_compensation_vs_hpi.png)
+![Bulgaria](charts/Chart10.png)
 
 ### Geographic Distribution of Affordability Clusters
-![Map](charts/geography_map.png)
+![Map](charts/Chart11.png)
 
 ---
 
