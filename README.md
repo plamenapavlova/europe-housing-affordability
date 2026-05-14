@@ -53,7 +53,7 @@ Analysis of housing price dynamics and affordability across European countries f
 
 | | |
 |---|---|
-| ![Cluster 0](Chart1.png) | ![Cluster 1](charts/Chart2.png) |
+| ![Cluster 0](charts/Chart1.png) | ![Cluster 1](charts/Chart2.png) |
 | **Cluster 0 — Extreme Growth** | **Cluster 1 — Recovery Markets** |
 | ![Cluster 2](charts/Chart3.png) | ![Cluster 3](charts/Chart4.png) |
 | **Cluster 2 — Consistent Growth** | **Cluster 3 — Crisis-Scarred Markets** |
