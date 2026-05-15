@@ -47,6 +47,20 @@ Analysis of housing price dynamics and affordability across European countries f
 
 ---
 
+## Custom Functions
+**rebase()** — Rebases each country's index so the first observation equals 100, enabling consistent relative comparison across countries regardless of their starting price level. Applied to both the house price index and compensation series.
+
+**long_format()** — Converts HPI and compensation data from wide format (countries as rows, time periods as columns) to long format (one row per country per quarter), with automatic period parsing and numeric coercion for downstream analysis.
+
+**long_format_hicp()** — Variant of the above tailored for HICP data, handling monthly datetime parsing separately before quarterly aggregation, accounting for the different source frequency of the inflation dataset.
+
+**plot_by_country()** — Generic time series plotting function that iterates over all countries in a dataset, assigns a distinct color per country from a 20-color palette, and standardises axis labels and tick positions across all charts in the project.
+
+**plot_by_group()** — Extends plot_by_country() to produce one chart per cluster or region, iterating over a group dictionary and dynamically setting the title based on whether the grouping is cluster-based or geographic.
+
+**assign_cluster()** — Maps TimeSeriesKMeans output labels back to country names, returning a dictionary of cluster-to-country assignments used for all subsequent visualisation and analysis.
+
+---
 ## Results
 
 ### Nominal House Price Clusters
