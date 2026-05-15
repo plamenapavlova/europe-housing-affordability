@@ -1,7 +1,7 @@
 # Housing Affordability in Europe: What the Numbers Hide
 ### Time Series Clustering and Affordability Analysis, 2010–2025
 
-🌐 **[View Project Website](#)** 
+🌐 **[View Project Website](https://europe-housing-affordability.lovable.app/)** 
 ---
 
 ## Overview
